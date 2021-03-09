@@ -2,7 +2,7 @@
 
 ### Forecasting Stock Prices
 
-![]()
+![](https://github.com/ToniMigliato/Time-Series-Projects/blob/main/stock-price-forecasting/images/stock_forecasts_cover.jpg)
 Image by <a href="https://pixabay.com/users/moritz320-1260270/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3346988">moritz320</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3346988">Pixabay</a>
 
 
